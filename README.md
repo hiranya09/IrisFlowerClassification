@@ -22,8 +22,7 @@
  ![image](https://github.com/user-attachments/assets/ed140491-a4b7-454d-94a1-fb79904cf725)
 
 # Model Accuracy Comparison
- ![image](https://github.com/user-attachments/assets/768e206b-c6ad-401a-9c8b-705f8bc6c91b)
-
+![image](https://github.com/user-attachments/assets/456a4e1f-c841-4a02-91a7-02747ff675fa)
 # Future Improvements
  Use deep learning models for classification, such as neural networks.
  For a real-time web application, use Flask or FastAPI to deploy the optimal model.
